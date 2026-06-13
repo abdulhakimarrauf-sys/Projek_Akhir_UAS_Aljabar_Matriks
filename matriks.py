@@ -1,11 +1,9 @@
-import percobaan as pn
+import rauf043 as rf
 
 if __name__ == "__main__":
-    print("=== UJI COBA MODUL MATRIKS ===\n")
-
-    A = pn.RAHA([[1, 2], 
+    A = rf.RAHA([[1, 2], 
                 [3, 4]])
-    B = pn.RAHA([[5, 6], 
+    B = rf.RAHA([[5, 6], 
                 [7, 8]])
     print("Matriks A:")
     print(A)
